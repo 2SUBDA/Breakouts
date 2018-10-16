@@ -12,7 +12,8 @@ What are acceptable approaches to understanding the data?   
 Does modeling still matter?  When do you use each approach? 
   
 Does the data matter?  How do you get data?  Where do you get data?  When do you say enough? 
- 
+
+
 <b>Case Study 2</b>
 
 Use the data and python to re-create the image contained in the Case Study 2 document - how do you make it better? 
