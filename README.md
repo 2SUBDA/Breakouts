@@ -16,6 +16,6 @@ Does the data matter?  How do you get data?  Where do you get data?  When do 
 
 <b>Case Study 2</b>
 
-Use the data and python to re-create the image contained in the Case Study 2 document - how do you make it better? 
+Use the data and python to re-create an image contained in the Case Study 2 document - how do you make it better? 
 
 Use the “what price victory?” approach to justify your salary?
