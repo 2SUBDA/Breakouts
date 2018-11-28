@@ -14,6 +14,7 @@ What is transfer learning?  Give an example of transfer learning in text mining
 How might one harden the facial recognition system? 
 
 Pick a sample code file from https://github.com/2SUBDA/Breakouts 
+
     UsingBayesToClassify
     StrawberriesQACreation
 
