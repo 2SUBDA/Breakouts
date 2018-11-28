@@ -3,14 +3,19 @@ Repository for breakout sessions
 
 Each breakout contains a copy of the case study, associated data files, and sample code (that may or may not be helpful).
 
-<b>Week 5 Questions</b>
+<b>Week 8 Questions</b>
 
-What is text mining?
+What is the difference between face detection and facial recognition?
 
-What is the value of text analytics?
+What is the danger in a system that is vulnerable to dodging? 
 
-What are the barriers to text mining?
+What is transfer learning?  Give an example of transfer learning in text mining.
 
-Is text mining perfect?
+How might one harden the facial recognition system? 
 
-Election week bonus - what are the top topics from the first & last inaugural addresses?
+Pick a sample code file from https://github.com/2SUBDA/Breakouts 
+    UsingBayesToClassify
+    StrawberriesQACreation
+
+    Which method works best for classification?
+    What is the compute performance?
