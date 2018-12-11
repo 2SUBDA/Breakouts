@@ -25,9 +25,14 @@ Check out: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.xls
 Using the titanic data, create a visualization that tells the story
 
         |\ 
-        | \ 
-        |  \ 
-        |___\ 
-_____\--|----/______ 
+        
+        | \
+        
+        |  \
+        
+        |___\
+        
+_____\--|----/______
+
       \_____/
 
