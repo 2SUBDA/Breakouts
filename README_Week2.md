@@ -20,6 +20,6 @@ Use the data and python to re-create an image contained in the case study 2 docu
 
 How do you make it better?
 
-How could you use the "what price victory?" approach to justify your salary?
+How could you use the "what price victory" approach to justify your salary?
 
 
