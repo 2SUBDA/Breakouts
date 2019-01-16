@@ -3,25 +3,24 @@ Repository for breakout sessions
 
 Each breakout contains a copy of the case study, associated data files, and sample code (that may or may not be helpful).
 
-<b>Week 10 Questions</b>
+<b>Each branch offers a different exercise</b>
 
-<b>Reading</b>
+<b>Week 2</b>  What price victory?
 
-What is the problem?
+<b>Week 3</b>  Can you recommend sustainable?
 
-What does the data tell us?  What did we miss in the data?
+<b>Week 4</b>  How much water?
 
-What analysis did we do?  What analysis did we not do?
+<b>Week 5</b>  Are we being nice?
 
-What is the recommendation?  Is this helpful?
+<b>Week 6</b>  Baseball or prison?
 
-Did we clearly communicate our results?
+<b>Week 7</b>  Classifying with drunken priests?
 
+<b>Week 8</b>  Classifying with simulation?
 
-<b>Practice</b>
+<b>Week 9</b>  Networks from scratch? or pre-baked?
 
-Check out: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.xls
-
-Using the titanic data, create a visualization that tells the story
+<b>Week 10</b>  King of the World
 
 
