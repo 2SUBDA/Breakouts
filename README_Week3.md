@@ -9,7 +9,7 @@ Each breakout contains a copy of the case study, associated data files, and samp
 
 What is your asessment of the sustainability journey?
 
-How do consumers make choices?
+How do consumers make choices?  Yesterday?  Today?  Tomorrow?
 
 What do we need to evaluate a sustainability journey?
 
