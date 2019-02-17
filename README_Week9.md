@@ -7,21 +7,21 @@ Each breakout contains a copy of the case study, associated data files, and samp
 
 <b>Reading</b>
 
-What is the problem?
-
 What are the steps we can take to defend against spoofing?  
 
-What analysis did we do?  What analysis did we not do?
+What is the difference between 2D & 3D facial models?   Why is this important?  
 
-What is the recommendation?  Is this helpful?
+Which defense in depth choice do you prefer?  
 
-Did we clearly communicate our results?
+How would you counter the defense in depth choice you don't like? 
 
 
 <b>Practice</b>
 
-Check out: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.xls
+Compare the performance of the two notebooks:
 
-Using the titanic data, create a visualization that tells the story
+- MLP 
+
+- Keras
 
 
