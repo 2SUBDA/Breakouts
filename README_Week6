@@ -3,20 +3,25 @@ Repository for breakout sessions
 
 Each breakout contains a copy of the case study, associated data files, and sample code (that may or may not be helpful).
 
-<b>Week 6 Questions</b>
+<b>Week 7 Questions</b>
 
 <b>Reading</b>
+Group 1
+What is wrong with Bayes' approach? 
 
-Are you a scout or a wonk?
-
-Which metric is better:
-  - On base percentage
-  - Batting average
+Give examples of how the frequentist approach is more in line with the natural world. 
   
-You have a budget of $40 million to spend on 25 associates - what do you do:
-  - On a baseball team
-  - in the iSchool
+Support how Data Analysis is a better approach than Bayesian modeling.   
+
+Group 2
+What is wrong with the frequentist approach? 
+
+Give examples of how the Bayesian approach is more in line with the natural world. 
+  
+Support how Bayesian modeling is an advanced version of data analysis.
 
 <b>Practice</b>
 
-Betting on sports?  That's next week's class - let's try some basic investing simulations.
+Betting on sports?  Examine the code for March Madness
+
+How might we improve performance?  How might we verify accuracy?  How might we improve compute time?
