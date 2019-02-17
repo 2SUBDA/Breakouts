@@ -3,13 +3,13 @@ Repository for breakout sessions
 
 Each breakout contains a copy of the case study, associated data files, and sample code (that may or may not be helpful).
 
-<b>Week 10 Questions</b>
+<b>Week 9 Questions</b>
 
 <b>Reading</b>
 
 What is the problem?
 
-What does the data tell us?  What did we miss in the data?
+What are the steps we can take to defend against spoofing?  
 
 What analysis did we do?  What analysis did we not do?
 
