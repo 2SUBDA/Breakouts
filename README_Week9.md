@@ -18,9 +18,11 @@ How would you counter the defense in depth choice you don't like?
 
 <b>Practice</b>
 
-Compare the performance of the two notebooks:
+Compare the performance of the three notebooks:
 
 - MLP 
+
+- Tensorflow
 
 - Keras
 
