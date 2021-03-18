@@ -20,7 +20,7 @@ Did we clearly communicate our results?
 
 <b>Practice</b>
 
-Check out: http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/titanic3.xls
+Check out: https://biostat.app.vumc.org/wiki/Main/DataSets
 
 Using the titanic data, create a visualization that tells the story
 
